@@ -1,1 +1,2 @@
-# Financial-Planning
+# Whole-Life Personal Financial-Planning (Excel based)
+Whole-Life Personal Financial Planning is a project built in Excel, designed to support financial decision-making across every stage of life. The project covers four core areas: budgeting, retirement planning, investment allocation, and insurance analysis — all integrated into a single cohesive model. To account for real-world uncertainty, Monte Carlo simulations were applied to stress-test financial outcomes across multiple scenarios. The results were then translated into clear, actionable insights to help users make smarter, more confident financial decisions.
